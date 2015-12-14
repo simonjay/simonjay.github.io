@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://simonjay.github.io
+title: RockShot
+email: simon@rockshot.co.uk
+author: Simon Jay Price
+description: RockShot Magazine
+paginate: 1
+google_analytics: 
